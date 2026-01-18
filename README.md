@@ -24,7 +24,7 @@ A minimal, opinionated starter demonstrating basic authentication and user-manag
 Clone the repo and install dependencies:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/1DeliDolu/nodejs_PracticeProject_AuthUserMgmt.git
 cd nodejs_PracticeProject_AuthUserMgmt
 npm install
 ```
